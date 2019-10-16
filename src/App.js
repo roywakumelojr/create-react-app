@@ -26,6 +26,7 @@ function App() {
         </a>
         !
       </h2>
+      <p>Roy Wakumelo</p>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
